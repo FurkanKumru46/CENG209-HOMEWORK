@@ -1,0 +1,7 @@
+Sword 0 15
+Armor 20 0
+Medical_kit 60 0
+Potion_of_Power 0 5
+Strengthened_Health_Potion 70 0
+Flamethrower 0 50
+Treasure 0 0
