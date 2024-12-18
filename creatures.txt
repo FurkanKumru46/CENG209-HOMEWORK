@@ -1,0 +1,7 @@
+Lav 0 0
+Pegasus 200 25
+Nothing 0 0
+Golem 70 10
+Witch 50 15
+Wild_Wolf 50 5
+Flame_Dragon 120 20
