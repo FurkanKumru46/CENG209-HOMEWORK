@@ -1,0 +1,9 @@
+0 Dungeon of Beginnings
+1 Dark Forest
+2 Ancient Library
+3 Ancient Library
+4 Flame Beast Dungeon
+5 Cellar
+6 Lava Room
+7 Flamethrower Room
+8 BOSS's Cell
